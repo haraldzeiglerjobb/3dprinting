@@ -9,3 +9,4 @@ Filene er ment til å brukes til å lære 3D design
 * Rotorblad er en fil som skal alge et rotorblad til en vindmøtte
 * tensegrity er en form som er ment å printes i to eksemplarer, slik at den ene formen holdes oppe med strikk eller tau og svever i lufta over den andre
 * twist er en rotert og utpresset (extruded) form som kan skrus på
+
