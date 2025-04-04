@@ -23,5 +23,5 @@ translate([20,0,0]) cylinder (h = 20, d1 = 10, d2 = 3);
 //kjegle med nedre radius 5 og øvre radius 7, la det være en 8-kant
 translate([20,20,0]) cylinder(h = 20, r1 = 5, r2 = 7, $fn=8);
 
-//flyttet [0,20,0] rotasjon av sylinder 90 grader omkring x-aksen, 45 grader om y-aksen
+//flyttet [-10,10,0] rotasjon av sylinder 45 grader omkring x-aksen, -40 grader om y-aksen
 translate([-10,10,0]) rotate([45,-40,0]) cylinder(h=30,r=4);
